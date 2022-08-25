@@ -1,0 +1,15 @@
+D:\рабочий стол\Dz2C#_FrolovaNA\task\task15\bin\Debug\net6.0\task15.exe
+D:\рабочий стол\Dz2C#_FrolovaNA\task\task15\bin\Debug\net6.0\task15.deps.json
+D:\рабочий стол\Dz2C#_FrolovaNA\task\task15\bin\Debug\net6.0\task15.runtimeconfig.json
+D:\рабочий стол\Dz2C#_FrolovaNA\task\task15\bin\Debug\net6.0\task15.dll
+D:\рабочий стол\Dz2C#_FrolovaNA\task\task15\bin\Debug\net6.0\task15.pdb
+D:\рабочий стол\Dz2C#_FrolovaNA\task\task15\obj\Debug\net6.0\task15.csproj.AssemblyReference.cache
+D:\рабочий стол\Dz2C#_FrolovaNA\task\task15\obj\Debug\net6.0\task15.GeneratedMSBuildEditorConfig.editorconfig
+D:\рабочий стол\Dz2C#_FrolovaNA\task\task15\obj\Debug\net6.0\task15.AssemblyInfoInputs.cache
+D:\рабочий стол\Dz2C#_FrolovaNA\task\task15\obj\Debug\net6.0\task15.AssemblyInfo.cs
+D:\рабочий стол\Dz2C#_FrolovaNA\task\task15\obj\Debug\net6.0\task15.csproj.CoreCompileInputs.cache
+D:\рабочий стол\Dz2C#_FrolovaNA\task\task15\obj\Debug\net6.0\task15.dll
+D:\рабочий стол\Dz2C#_FrolovaNA\task\task15\obj\Debug\net6.0\refint\task15.dll
+D:\рабочий стол\Dz2C#_FrolovaNA\task\task15\obj\Debug\net6.0\task15.pdb
+D:\рабочий стол\Dz2C#_FrolovaNA\task\task15\obj\Debug\net6.0\task15.genruntimeconfig.cache
+D:\рабочий стол\Dz2C#_FrolovaNA\task\task15\obj\Debug\net6.0\ref\task15.dll
